@@ -1,0 +1,33 @@
+  {
+    "products":[
+    {
+      "id":1,
+      "name": "Carven Longue Chair",
+      "price":"152$",
+      "tag":"Design PRP",
+      "src":"/assets/images/products/11.png"
+    },
+    {
+      "id":2,
+      "name": "Homer Bar Stool",
+      "price":"281$",
+      "tag":"Arta italia",
+      "src":"/assets/images/products/2.png"
+    },
+    {
+      "id":3,
+      "name": "Morgan Wing Chair",
+      "price":"362$",
+      "tag":"Acribs",
+      "src":"/assets/images/products/3.png"
+    },
+    {
+      "id":4,
+      "name": "Ekelda Chair",
+      "price":"362$",
+      "tag":"Design PRP",
+      "src":"/assets/images/products/4.png"
+    }
+  ]
+  
+}
