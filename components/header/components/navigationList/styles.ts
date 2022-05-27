@@ -5,6 +5,9 @@ const StyledNavbar = styled.ul`
   @media (max-width: 1360px) {
     margin: 0 auto;
   }
+  @media (max-width: 768px) {
+    display: none;
+  }
 `
 const StyledList = styled.li`
   margin: 0 20px;

@@ -8,7 +8,7 @@ This is a forniture store website created with [Next.js](https://nextjs.org/) an
 
 ### `Assets`
 
-All photo files, fonts, etc. (except icons) in the project used are in this folder
+All photo files, fonts, etc. (except icons) in the project used are in public folder
 
 ### `Components`
 
@@ -34,4 +34,5 @@ All pages in the panel are located in this folder
 
 - Code Linter
   - [Eslint](https://eslint.org/)
+
 # furniture-shop
